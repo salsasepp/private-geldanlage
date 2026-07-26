@@ -49,6 +49,7 @@ Steuern bei ausländischen Banken/Brokern
 - <https://straderz.com/>
 - <https://klyris.de/>
 - <https://capi.tax/>
+- <https://kapitaltax.de>
 - <https://elegant-systems.de/steuerreporting-privatinvestoren/>
 - <https://www.freakyfinance.net/>
    - <https://www.youtube.com/channel/UCmVWGQd6pf2vY1ZGScvyxvg/videos>
