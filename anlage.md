@@ -570,11 +570,14 @@ Zur Info/Nachlesen:
       - WKN:A1W375, ISIN:IE00BCRY6557, Symbol:IS3M (ERNE???)
    - [UBS ETF (LU) Bloomberg Euro Area Liquid Corporates 1-5 Year UCITS ETF (EUR) A-dis](https://www.justetf.com/de/etf-profile.html?isin=LU1048314196)
 - Unternehmensanleihen in Euro:
-   - [iShares Core EUR Corporate Bond UCITS ETF (Dist)](https://www.justetf.com/de/etf-profile.html?isin=IE00B3F81R35)
-   - [iShares Core EUR Corporate Bond UCITS ETF (Acc)](https://www.justetf.com/de/etf-profile.html?isin=IE00BF11F565)
-   - [Xtrackers EUR High Yield Corporate Bond UCITS ETF 1D](https://www.justetf.com/de/etf-profile.html?isin=LU1109942653)
-      - Symbol: XHYG, WKN: DBX0PR
-      - bildet den iBoxx® EUR Liquid High Yield Index nach
-   - [Xtrackers EUR High Yield Corporate Bond UCITS ETF 1C](https://www.justetf.com/de/etf-profile.html?isin=LU1109943388)
-   - [iShares EUR High Yield Corporate Bond UCITS ETF EUR (Dist)](https://www.justetf.com/de/etf-profile.html?isin=IE00B66F4759)
+   - Bloomberg Euro Corporate Bond Index:
+      - [iShares Core EUR Corporate Bond UCITS ETF (Dist)](https://www.justetf.com/de/etf-profile.html?isin=IE00B3F81R35)
+      - [iShares Core EUR Corporate Bond UCITS ETF (Acc)](https://www.justetf.com/de/etf-profile.html?isin=IE00BF11F565)
+      - [Xtrackers II EUR Corporate Bond UCITS ETF 1C](https://www.justetf.com/de/etf-profile.html?isin=LU0478205379)
+   - iBoxx® EUR Liquid High Yield Index:
+      - [Xtrackers EUR High Yield Corporate Bond UCITS ETF 1D](https://www.justetf.com/de/etf-profile.html?isin=LU1109942653)
+         - Symbol: XHYG, WKN: DBX0PR
+      - [Xtrackers EUR High Yield Corporate Bond UCITS ETF 1C](https://www.justetf.com/de/etf-profile.html?isin=LU1109943388)
+      - [iShares EUR High Yield Corporate Bond UCITS ETF EUR (Dist)](https://www.justetf.com/de/etf-profile.html?isin=IE00B66F4759)
+      - [iShares EUR High Yield Corporate Bond UCITS ETF EUR (Acc)](https://www.justetf.com/de/etf-profile.html?isin=IE00BF3N7094)
 
