@@ -182,6 +182,18 @@ Aktienanlage
 - [Notgroschen: MSCI World: Wie wahrscheinlich sind 7 % wirklich?](https://www.youtube.com/watch?v=7aqlopTFWqc)
 
 
+Vanguard FTSE Global All-Cap
+----------------------------
+
+10.100 Unternehmen aus 25 Industrieländern und 24 Schwellenländern und deckt damit rund 98–99 % des weltweit investierbaren Aktienmarktes ab.
+TER 0,07 %.
+
+- Vanguard FTSE Global All-Cap UCITS ETF (Acc), WKN:A42B1M, ISIN:IE000VAHT5T0
+   - Thesaurierend
+- Vanguard FTSE Global All-Cap UCITS ETF (Dist), WKN:A42B1N, ISIN:IE000CVUM3N6
+   - Ausschüttend
+
+
 FTSE All-World
 --------------
 
