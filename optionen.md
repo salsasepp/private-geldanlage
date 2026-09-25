@@ -511,6 +511,25 @@ Tony Rihan's 4 Hedging Strategies for a Falling Market
    - Sell short puts against this with shorter DTE (monthly expirey).
 
 
+Grow Your Pile: Smart SPX Trade (Tony Rihan and Tony Battista)
+--------------------------------------------------------------
+
+- <https://www.youtube.com/watch?v=O6HbSThd0pU>
+- Smarter than being long the SP500.
+- Buy ATM Call. Sell higher call for half the price. Sell short put to finance this.
+   - Enter this trade on a down day with expectation of the market to go up.
+   - Risk like one short put.
+- Short put to finance a call debit spread (long call spread).
+- Cap upside potential and add a small buffer to the downside risk.
+- More advanced:
+   - Only put on the call debit spread.
+   - If the market goes up, take the profit from the call debit spread.
+   - If the market goes down, sell short put at a lower strike (or higher price).
+- Completely different trade idea:
+   - Sell short put.
+   - If market goes up, buy long put at higher strike with less money for a risk free trade.
+
+
 Youtube "Steady Income Trading"
 -------------------------------
 
@@ -549,7 +568,30 @@ Broken Wing Butterfly (BWB)
 
 - [BWB Youtube Videos](https://www.youtube.com/playlist?list=PLJhxLwjg3zb054JytiHbEWD9BY53SY_zF)
 - [BWB from tastylive](https://www.youtube.com/watch?v=d5hbaFmUmwg)
+- [Nichol Hermel: Butterfly Spread Pricing](https://www.youtube.com/watch?v=dhjGc5wtmHY)
 - [Broken Wing Butterfly from Brent Osachoff](https://www.youtube.com/watch?v=AJp2gleqnz8)
+
+
+laddered put ratio spreads by dtoptions
+---------------------------------------
+
+- <https://www.youtube.com/watch?v=xchQq_AiWVc>
+   - Put Ratio Spread: SPY, 90 DTE, -2 Put Delta 10, +1 Put 20 points higher
+   - Small Pyramid (Short Put to finance Long Put Butterfly): 1211
+      - MES, 90 DTE, -2 Put Delta 16, +1 Put 200/250 points higher, +1 Put 200/250 points lower
+         - Sell another short put at delta 10 to finance it.
+      - manage: buy back short put for a risk free butterfly
+   - Great Pyramid: 1212 trade
+      - Might use 300 points wide butterfly.
+      - Sell two instead of one short put at delta 10 to finance it.
+- <https://www.youtube.com/watch?v=fY44QxoW0Mo>
+   - Twin Peaks: 1222 trade (bearish trade)
+      - MES, 90 DTE, -2 put put at delta 10, +1 put 200 points higher
+      - +2 put 200 points lower
+      - -2 put another 200 points lower
+   - Twin Peaks: 1223 trade (more bullish than 1222)
+   - Twin Peaks: 1234 trade (more bearish than 1222)
+   - Twin Peaks: 2345 trade (even more bearish than 1234)
 
 
 Naming of option spreads
